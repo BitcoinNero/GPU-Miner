@@ -5,6 +5,9 @@
 Before start you need to create a Bitcoin Nero Wallet.
 ```
 Windows Wallet : https://btcnero.org/download/windows-cli
+```
+or
+```
 Linux Wallet : https://btcnero.org/download/linux-gui
 ```
 Read "ReadMe" file attached
