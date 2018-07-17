@@ -9,9 +9,8 @@ Linux Wallet : https://btcnero.org/download/linux-gui
 ```
 Read "ReadMe" file attached
 ```
-## Download Claymore OR EasyMiner
+## Download Claymore
 Claymore : https://btcnero.org/download/claymore.zip
-EasyMiner : https://btcnero.org/download/easyminer.zip
 ```
 Right Clic + Decompress files (Unzip)
 ```
