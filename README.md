@@ -11,16 +11,13 @@ Linux Wallet : https://btcnero.org/download/linux-gui
 Read "ReadMe" file attached
 ```
 ## Download Claymore
-Claymore : https://btcnero.org/download/claymore.zip
+Claymore : https://mega.nz/#F!e4JVEAIJ!l1iF4z10fMyJzY5-LnyC2A
 ```
 Right Clic + Decompress files (Unzip)
 ```
 ## Configure Claymore
 ```
-Open config.txt
-Complete with your address create at the line "YOUR_WALLET_HERE"
+Edit start.bat
+-o stratum+tcp://:POOL_HERE -u YOUR_WALLET_ADDRESS -p x
 Launch NsGpuCNMiner.exe
 ```
-
-## Track your Stats and your Payments
-http://bitcoinnero.org/en/pool
